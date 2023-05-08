@@ -258,7 +258,7 @@ h1 a.navbar-brand span {
     overflow: hidden;
     height: 2.8em; 
 	/* height:3em; */
-    padding: 0.85em 0.85em; /* 1 1 1.5*/
+    padding: 0.43em 0.43em; /* 1 1 1.5*/
 	text-align: center;
 	color: #b5b5b5;
 	-webkit-transition: color 0.3s;
