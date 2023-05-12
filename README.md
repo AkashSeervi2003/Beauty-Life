@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** - https://mango-sea-04cf89f00.3.azurestaticapps.net/
-**Project Demo Video Link** - 
+**Project Demo Video Link** - https://youtu.be/kXqmrXQxsKM
 
 ## Azure technologies used for Project
 
