@@ -62,14 +62,6 @@ This is a web based application developed for health related based website in in
 ![image](https://github.com/AkashSeervi2003/Beauty-Life/assets/123230403/4fd3d949-6a69-4e5e-98bb-a891476ae0f6)
 
 
-
-### Privacy policy -
-
-
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
-
-
-
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
